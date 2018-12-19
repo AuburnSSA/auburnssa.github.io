@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>联系我们 on 奥本大学学生服务协会官方中文网站</title>
+    <link>https://aussa.org/zh/contact/</link>
+    <description>Recent content in 联系我们 on 奥本大学学生服务协会官方中文网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-sg</language>
+    <lastBuildDate>Sat, 07 Jul 2018 15:53:27 +0600</lastBuildDate>
+    
+	<atom:link href="https://aussa.org/zh/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FRANCAIS Contactez Nous</title>
+      <link>https://aussa.org/zh/contact/_index.fr/</link>
+      <pubDate>Sat, 07 Jul 2018 15:53:27 +0600</pubDate>
+      
+      <guid>https://aussa.org/zh/contact/_index.fr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
