@@ -3,6 +3,161 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://aussa.org/zh/aulife/chinese-international-student-white-paper/</loc>
+    <lastmod>2019-01-19T12:22:40+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aussa.org/zh/aulife/emory-summit/</loc>
+    <lastmod>2019-01-19T12:22:40+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aussa.org/en/aulife/emory-summit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://aussa.org/zh/aulife/emory-summit/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aussa.org/zh/aulife/carpooling/</loc>
+    <lastmod>2018-12-07T12:22:40+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aussa.org/en/aulife/carpooling/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://aussa.org/zh/aulife/carpooling/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aussa.org/zh/aulife/black-friday/</loc>
+    <lastmod>2018-11-14T12:22:40+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aussa.org/en/aulife/black-friday/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://aussa.org/zh/aulife/black-friday/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aussa.org/zh/aulife/auburn-first-experiential-auto-show/</loc>
+    <lastmod>2018-11-10T12:22:40+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aussa.org/en/aulife/auburn-first-experiential-auto-show/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://aussa.org/zh/aulife/auburn-first-experiential-auto-show/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aussa.org/zh/aulife/international-flight-association/</loc>
+    <lastmod>2018-10-05T12:22:40+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aussa.org/en/aulife/international-flight-association/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://aussa.org/zh/aulife/international-flight-association/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aussa.org/zh/aulife/cupofnations/</loc>
+    <lastmod>2018-09-14T17:04:41+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aussa.org/en/aulife/cupofnations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://aussa.org/zh/aulife/cupofnations/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aussa.org/zh/aulife/vava-gift/</loc>
+    <lastmod>2018-09-14T17:04:41+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aussa.org/en/aulife/vava-gift/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://aussa.org/zh/aulife/vava-gift/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aussa.org/zh/aulife/au-gameday-gift/</loc>
+    <lastmod>2018-09-14T12:22:40+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aussa.org/en/aulife/au-gameday-gift/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://aussa.org/zh/aulife/au-gameday-gift/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aussa.org/zh/aulife/f22-alabama/</loc>
+    <lastmod>2018-09-08T12:22:40+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aussa.org/en/aulife/f22-alabama/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://aussa.org/zh/aulife/f22-alabama/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://aussa.org/zh/aulife/table-tennis-club/</loc>
+    <lastmod>2018-08-12T12:22:40+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aussa.org/en/aulife/table-tennis-club/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://aussa.org/zh/aulife/table-tennis-club/"
+                />
+  </url>
+  
+  <url>
     <loc>https://aussa.org/zh/aulife/2019-spring-airport-pickup/</loc>
     <lastmod>2018-07-08T12:22:40+06:00</lastmod>
     <xhtml:link
@@ -148,6 +303,21 @@
   </url>
   
   <url>
+    <loc>https://aussa.org/zh/aulife/air-show-2018/</loc>
+    <lastmod>2018-05-19T12:22:40+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aussa.org/en/aulife/air-show-2018/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://aussa.org/zh/aulife/air-show-2018/"
+                />
+  </url>
+  
+  <url>
     <loc>https://aussa.org/zh/categories/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -195,7 +365,7 @@
   
   <url>
     <loc>https://aussa.org/zh/</loc>
-    <lastmod>2018-07-08T12:22:40+06:00</lastmod>
+    <lastmod>2019-01-19T12:22:40+06:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
